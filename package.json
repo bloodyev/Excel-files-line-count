@@ -1,0 +1,16 @@
+{
+  "name": "repeat-item-xlsx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "t.me/tiktokpeppa",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "xlsx": "^0.16.7"
+  }
+}
